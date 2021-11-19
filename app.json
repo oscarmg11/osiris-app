@@ -1,0 +1,13 @@
+{
+  "name": "osiris",
+  "displayName": "osiris",
+  "url": "https://osiris-test.herokuapp.com",
+  "messageServerError": "Ha sucedido un error en el servidor. Intentalo más tarde.",
+  "messageTokenError": "Ha sucedido un error intentado obtener el token de usuario. Reinicia la aplicación.",
+  "messageDocsError": "Ha sucedido un error intentado obtener los documentos. Reinicia la aplicación",
+  "messageLocationError": "Ha ocurrido un error obteniendo la ubicación. Reinica la aplicación o intentalo más tarde",
+  "messageInternetError": "No se ha podido conectar al servidor. Revisa tu conexión a internet.",
+  "messageCreateDocError": "Ha sucedido un error intentado crear el documento. Reinicia la aplicación",
+  "messageUpdateLocalPlant": "Ha sucedido un error intentado actualizar la planta localmente. Reinicia la plicación o vuelve a intentarlo",
+  "messageGetLocalPlant": "Ha sucedido un error intentado obtener las plantas actualizadas localmente. Reinicia la plicación o vuelve a intentarlo"
+}
